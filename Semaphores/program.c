@@ -1,6 +1,7 @@
 #include <pthread.h>
 #include <semaphore.h>
 #include <stdio.h>
+#include <stdlib.h>
 
 #define MAX_ITEM 2
 #define BUFFER_SIZE 2
